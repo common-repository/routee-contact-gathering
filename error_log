@@ -1,0 +1,1 @@
+[12-Sep-2016 09:55:01 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/aqualhdi1/public_html/routee/wp-content/plugins/routee-contact-gathering/routee-contact-gathering.php on line 18
